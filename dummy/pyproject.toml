@@ -1,0 +1,21 @@
+[build-system]
+requires = [
+  "setuptools == 79.0.0",
+  "setuptools-scm == 8.3.1",
+  "wheel == 0.45.1",
+  "pip == 25.0.1",
+]
+build-backend = "setuptools.build_meta" # If not defined, then legacy behavior can happen.
+
+[tool.setuptools_scm]
+root = ".."
+# set dynamic version
+
+[project]
+name = "dummy-venv"
+
+dynamic = ["version"]
+
+requires-python = ">=3.12"
+
+dependencies = ["pip-autoremove == 0.10.0", "pipdeptree == 2.26.1"]
