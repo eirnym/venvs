@@ -1,0 +1,20 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "branchPrefix": "renovate/",
+  "bumpVersion": "patch",
+  "configMigration": true,
+  "enabled": true,
+  "extends": [
+    "config:recommended"
+  ],
+  "osvVulnerabilityAlerts": true,
+  "pre-commit": {
+    "enabled": true
+  },
+  "separateMajorMinor": true,
+  "separateMinorPatch": true,
+  "separateMultipleMajor": true,
+  "vulnerabilityAlerts": {
+    "enabled": true
+  }
+}
