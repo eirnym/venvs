@@ -25,7 +25,7 @@ dependencies = [
   # debug
   "icecream == 2.1.4",
   # Data manipulation
-  "polars == 1.27.1",
+  "polars ==1.28.1",
   "pyarrow == 19.0.1",
   "networkx == 3.4.2",
   "orjson == 3.10.16",
