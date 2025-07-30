@@ -3,7 +3,7 @@ requires = [
   "setuptools ==80.9.0",
   "setuptools-scm == 8.3.1",
   "wheel == 0.45.1",
-  "pip ==25.1.1",
+  "pip ==25.2",
 ]
 build-backend = "setuptools.build_meta" # If not defined, then legacy behavior can happen.
 
