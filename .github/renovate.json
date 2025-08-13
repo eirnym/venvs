@@ -8,6 +8,32 @@
     "config:recommended"
   ],
   "osvVulnerabilityAlerts": true,
+  "packageRules": [
+    {
+      "matchDatasources": [
+        "pypi"
+      ],
+      "matchPackageNames": [
+        "setuptools-scm"
+      ],
+      "matchUpdateTypes": [
+        "major"
+      ],
+      "stabilityDays": 14
+    },
+    {
+      "matchDatasources": [
+        "pypi"
+      ],
+      "matchPackageNames": [
+        "setuptools-scm"
+      ],
+      "matchUpdateTypes": [
+        "minor"
+      ],
+      "stabilityDays": 0
+    }
+  ],
   "pre-commit": {
     "enabled": true
   },
