@@ -19,7 +19,7 @@
       "matchUpdateTypes": [
         "major"
       ],
-      "stabilityDays": 14
+      "minimumReleaseAge": "14 days"
     },
     {
       "matchDatasources": [
@@ -31,7 +31,7 @@
       "matchUpdateTypes": [
         "minor"
       ],
-      "stabilityDays": 0
+      "minimumReleaseAge": null
     }
   ],
   "pre-commit": {
