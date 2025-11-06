@@ -12,7 +12,7 @@ root = ".."
 # set dynamic version
 
 [project]
-name = "apps-venv"
+name = "eirnym-apps-venv"
 
 dynamic = ["version"]
 

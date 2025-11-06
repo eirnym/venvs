@@ -12,7 +12,7 @@ root = ".."
 # set dynamic version
 
 [project]
-name = "jupyterlab-venv"
+name = "eirnym-jupyterlab-venv"
 
 dynamic = ["version"]
 
