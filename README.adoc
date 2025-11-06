@@ -1,0 +1,8 @@
+= Python virtual environments base
+
+To install one you need to input following:
+
+[source,zsh]
+-----
+$ pip install 'git+https://github.com/eirnym/venvs@TAG#egg=EGG_NAME&subdirectory=SUB-DIRECTORY'
+-----
