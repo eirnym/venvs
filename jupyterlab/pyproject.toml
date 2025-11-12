@@ -21,7 +21,7 @@ requires-python = ">=3.12"
 dependencies = [
   # package management
   "pip-autoremove == 0.10.0",
-  "pipdeptree ==2.29.0",
+  "pipdeptree ==2.30.0",
   # debug
   "icecream ==2.1.8",
   # Data manipulation
