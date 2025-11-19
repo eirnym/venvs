@@ -30,7 +30,7 @@ dependencies = [
   "networkx ==3.5",
   "orjson ==3.11.4",
   # Jupyter Lab
-  "jupyterlab ==4.4.10",
+  "jupyterlab ==4.5.0",
   "jupyterlab-language-pack-pl-PL",
 ]
 
