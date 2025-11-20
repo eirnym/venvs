@@ -35,5 +35,5 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-data_view = ["ipycytoscape == 1.3.3", "ipydatagrid == 1.4.0", "plotly ==6.4.0"]
+data_view = ["ipycytoscape == 1.3.3", "ipydatagrid == 1.4.0", "plotly ==6.5.0"]
 lsp = ["python-lsp-ruff", "python-lsp-server", "python-lsp-jsonrpc"]
