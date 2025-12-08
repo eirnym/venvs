@@ -28,7 +28,7 @@ dependencies = [
   "polars ==1.35.2",
   "pyarrow ==22.0.0",
   "networkx ==3.6",
-  "orjson ==3.11.4",
+  "orjson ==3.11.5",
   # Jupyter Lab
   "jupyterlab ==4.5.0",
   "jupyterlab-language-pack-pl-PL",
