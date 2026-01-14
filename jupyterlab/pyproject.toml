@@ -23,7 +23,7 @@ dependencies = [
   "pip-autoremove == 0.10.0",
   "pipdeptree ==2.30.0",
   # debug
-  "icecream ==2.1.8",
+  "icecream ==2.1.9",
   # Data manipulation
   "polars ==1.37.1",
   "pyarrow ==22.0.0",
