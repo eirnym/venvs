@@ -4,6 +4,9 @@
   "bumpVersion": "patch",
   "configMigration": true,
   "enabled": true,
+  "enabledManagers": [
+    "pep621"
+  ],
   "extends": [
     "config:recommended"
   ],
