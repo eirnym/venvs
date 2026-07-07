@@ -22,6 +22,6 @@ dependencies = [
   "pip-autoremove == 0.10.0",
   "pipdeptree ==3.1.1",
   "genpasswd-everdrone == 2.0.3",
-  "tox ==4.56.1",
+  "tox ==4.56.2",
   "unrpa == 2.3.0",
 ]
