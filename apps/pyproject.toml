@@ -20,7 +20,7 @@ requires-python = ">=3.12"
 
 dependencies = [
   "pip-autoremove == 0.10.0",
-  "pipdeptree ==4.2.0",
+  "pipdeptree ==4.2.1",
   "genpasswd-everdrone == 2.0.3",
   "tox ==4.60.0",
   "unrpa == 2.3.0",
