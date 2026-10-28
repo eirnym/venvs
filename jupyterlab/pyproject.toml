@@ -26,7 +26,7 @@ dependencies = [
   "icecream == 2.2.0",
   # Data manipulation
   "polars ==1.44.1",
-  "pyarrow ==25.0.1",
+  "pyarrow ==26.0.0",
   "networkx ==3.6.1",
   "orjson ==3.12.0",
   # Jupyter Lab
