@@ -27,7 +27,7 @@ dependencies = [
   # Data manipulation
   "polars ==2.1.0",
   "pyarrow ==25.0.1",
-  "networkx ==3.6.1",
+  "networkx ==3.7",
   "orjson ==3.13.0",
   # Jupyter Lab
   "jupyterlab ==4.6.4",
